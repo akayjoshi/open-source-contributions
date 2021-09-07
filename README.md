@@ -4,3 +4,4 @@ I create this repo. for keep track of my oss contributions and what i learn't fr
 ## [Library Card Platform](https://github.com/WikipediaLibrary/TWLight)
 
 - [Rename Duplicate test function names](https://github.com/WikipediaLibrary/TWLight/pull/783)
+- [Change internal server error to admin validation error](https://github.com/WikipediaLibrary/TWLight/pull/800)
